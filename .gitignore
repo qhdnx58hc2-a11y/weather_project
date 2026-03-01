@@ -1,0 +1,26 @@
+# ===== Node / Vue =====
+node_modules/
+dist/
+build/
+*.log
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# ===== IDE =====
+.idea/
+.vscode/
+.history/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Env =====
+.env
+.env.*.local
