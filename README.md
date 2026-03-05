@@ -41,9 +41,7 @@ weather_project/
 ## 🚀 运行方式
 
 1️⃣ 后端运行（Django）
-
 在项目根目录执行：
-
 ```bash
 pip install -r requirements.txt
 python manage.py runserver
