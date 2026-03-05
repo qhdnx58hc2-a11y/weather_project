@@ -41,14 +41,18 @@ weather_project/
 ## 🚀 运行方式
 
 1️⃣ 后端运行（Django）
+
 在项目根目录执行：
-```bash
+
 pip install -r requirements.txt
 python manage.py runserver
+
 2️⃣ 前端运行（Vue）
+
 cd visualization_weather_vue
 npm install
 npm run serve
+
 🗄 数据库初始化
 
 创建 MySQL 数据库
